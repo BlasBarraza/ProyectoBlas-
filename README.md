@@ -1,3 +1,3 @@
 # ProyectoBlas-
 Repositorio creado para tarea.
-El fin es descubrir comportamientos en las apuestas que pertenecen a la casa de apuesta más grande del mundo (Bet365). En el caso de que exista un comportamiento descubrir su punto máximo para saber cuando dejar de apostar y asi generar más ganancias.
+El fin es descubrir la existencia de algun comportamiento en las apuestas de la casa de apuesta más grande del mundo (Bet365.com). En el caso de que exista un comportamiento, descubrir su punto máximo ( o pick) para saber cuando dejar de apostar y asi generar más ganancias.
